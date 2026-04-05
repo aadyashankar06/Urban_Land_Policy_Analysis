@@ -46,6 +46,9 @@ This project analyzes India's urban land inefficiency problem, estimated at ₹4
 
 **Team Name:** Alpha Analysts  
 
+## 🏆 Recognition
+- Shortlisted among Top 15 teams out of 400+ teams at DTU Policy Case Competition
+
 ## 🎯 Skills Demonstrated
 - Policy Analysis  
 - Structured Problem Solving  
